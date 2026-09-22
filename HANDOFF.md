@@ -31,7 +31,8 @@ page could be finished. Each item says where it lives so it can be changed quick
     will place them.
 12. **Cru and Trellis logos** — the partners section uses their names as text links. If either
     partner wants their logo shown, send the files.
-13. **A domain** — the site can live at a vercel.app address or at a domain you own.
+13. **A domain** — the site can live at a vercel.app address or at a domain you own. Once it is
+    settled, Zack updates the site URL in the share tags so links preview correctly.
 
 ## Deliberately left out
 - Events, gathering dates, and locations. They go stale and nobody is on hand to update the

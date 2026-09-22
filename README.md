@@ -8,12 +8,13 @@ text editor and push; Vercel redeploys from GitHub.
 
 - `index.html` — the whole page
 - `styles.css` — all styling; brand tokens at the top
-- `assets/` — logo and favicon
+- `assets/` — logo, favicon, and `og.png` (the 1200x630 image shown when the link is shared)
 - `sources/` — the flyer and logo the site was built from
 - `DESIGN.md` — the design plan and the rules that keep it from looking templated
 - `HANDOFF.md` — what Ainsley needs to confirm or supply, and where each item lives in the page
 
 ## Editing rules
+- The share tags in `index.html` carry an absolute site URL. Update it when the domain changes.
 - Nothing on the page is time-bound on purpose. Do not add events, dates, or "upcoming" anything.
 - Applying for anything means emailing the Collective (Ainsley's address, worded as "us"). Keep it that way; there is no form to maintain.
 - Colors and type come from the flyer. See `DESIGN.md` before changing them.
