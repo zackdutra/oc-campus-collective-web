@@ -11,8 +11,8 @@ page could be finished. Each item says where it lives so it can be changed quick
    section, and "Run by Cru and Trellis"). Every button on the site says "Email us" and goes to Ainsley's address.
 
 ## Placeholders Zack wrote, please correct or approve
-5. **Ian's last name and title** — the site currently says just "Ian, Trellis".
-6. **Your title** — the site says "Ainsley Whitecar, Cru". Add a role if you want one shown.
+5. **Ian's entry** — "Ian Stevenson, Executive Director, Trellis".
+6. **Your entry** — "Ainsley Whitecar, Strategic Church Partnerships, Cru".
 7. **How Cru and Trellis are described** — "Cru, whose campus ministry has served students for
    decades" and "Trellis, a network of networks for Orange County" (the Trellis line is from
    their own website). Reword if either partner would prefer something else.
@@ -28,24 +28,22 @@ page could be finished. Each item says where it lives so it can be changed quick
     button; the joining button prefills organization, campuses, and current student work.
 11. **The reply promise** — under the hero button the site says "We will reply and invite you
     to the next gathering." Confirm you are happy to make that promise, or reword it.
-12. **The grant qualifier** — next to the grant button: "For campuses with no Christian
-    presence yet." It is there so people with an existing campus ministry do not email
+12. **The grant qualifier** — the "How to apply" text opens with "Launching on a campus with
+    no Christian presence yet?" so people with an existing campus ministry do not email
     expecting a grant. Confirm the wording.
-13. **"Emails go to Ainsley Whitecar at Cru, who runs the Collective."** — in the grant
-    section. Adjust if "runs" is not how you would put it.
-14. **"Partners keep their own name, identity and students."** — in the Cru and Trellis
+13. **"Partners keep their own name, identity and students."** — in the Cru and Trellis
     section, to answer the turf question. Confirm or reword.
-15. **A partner quote** — the "What you get" section ends with a bracketed placeholder for
+14. **A partner quote** — the "What you get" section ends with a bracketed placeholder for
     one real sentence from a partner (name, role, church or ministry). Send one, or tell Zack
     to remove the block. Nothing will be invented.
 
 ## Optional additions
-16. **Photos** — the site has none on purpose (no stock, no AI images). If you have one or two
+15. **Photos** — the site has none on purpose (no stock, no AI images). If you have one or two
     real photos of a gathering or a campus that you have permission to use, send them and Zack
     will place them.
-17. **Cru and Trellis logos** — the partners section uses their names as text links. If either
+16. **Cru and Trellis logos** — the partners section uses their names as text links. If either
     partner wants their logo shown, send the files.
-18. **A domain** — the site can live at a vercel.app address or at a domain you own. Once it is
+17. **A domain** — the site can live at a vercel.app address or at a domain you own. Once it is
     settled, Zack updates the site URL in the share tags so links preview correctly.
 
 ## Deliberately left out

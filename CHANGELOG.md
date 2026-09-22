@@ -6,7 +6,10 @@
   addresses beside each button for people whose mailto link does nothing. "What you get" moved
   above "What we ask of partners". One-line answers to the time and turf objections. Grant
   qualifier ("no Christian presence yet") sits next to the grant button. Placeholders for
-  Ian's surname, titles, and a real partner quote; new confirm items 11–15 in `HANDOFF.md`.
+  a real partner quote; new confirm items in `HANDOFF.md`.
+- Names and titles filled in: Ian Stevenson, Executive Director, Trellis; Ainsley Whitecar,
+  Strategic Church Partnerships, Cru. Grant aside trimmed to one paragraph, the button, and
+  the plain address; the qualifier now opens the paragraph.
 - First build: one-page static site from the flyer and logo. Sections: hero, what we believe,
   what we ask of partners, launch grant, what you get, run by Cru and Trellis, footer.
 - Design plan in `DESIGN.md`; handoff list for Ainsley in `HANDOFF.md`.

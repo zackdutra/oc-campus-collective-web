@@ -271,12 +271,7 @@ h3 {
 }
 .hero .how { color: var(--navy); }
 .apply .how { margin: 1.2em 0 0; }
-.qualifier {
-  font-weight: 600;
-  font-size: 15px;
-  margin: 14px 0 0;
-}
-.apply .how a, .apply .qualifier { color: var(--paper); }
+.apply .how a { color: var(--paper); }
 
 /* Partner quote */
 .quote {
