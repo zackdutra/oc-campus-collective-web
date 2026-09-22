@@ -23,18 +23,36 @@ page could be finished. Each item says where it lives so it can be changed quick
    Opportunities, Resources and tools. The headings are from the flyer; the descriptions are
    Zack's. Rewrite in your own words if they miss the mark.
 10. **How to apply** — the site says: email us with the campus, your organization, and what
-    you are planning. Confirm that is all you need, or tell Zack what else to ask for.
+    you are planning. Confirm that is all you need, or tell Zack what else to ask for. The
+    same three prompts are prefilled in the email that opens when someone clicks the grant
+    button; the joining button prefills organization, campuses, and current student work.
+11. **The reply promise** — under the hero button the site says "We will reply and invite you
+    to the next gathering." Confirm you are happy to make that promise, or reword it.
+12. **The grant qualifier** — next to the grant button: "For campuses with no Christian
+    presence yet." It is there so people with an existing campus ministry do not email
+    expecting a grant. Confirm the wording.
+13. **"Emails go to Ainsley Whitecar at Cru, who runs the Collective."** — in the grant
+    section. Adjust if "runs" is not how you would put it.
+14. **"Partners keep their own name, identity and students."** — in the Cru and Trellis
+    section, to answer the turf question. Confirm or reword.
+15. **A partner quote** — the "What you get" section ends with a bracketed placeholder for
+    one real sentence from a partner (name, role, church or ministry). Send one, or tell Zack
+    to remove the block. Nothing will be invented.
 
 ## Optional additions
-11. **Photos** — the site has none on purpose (no stock, no AI images). If you have one or two
+16. **Photos** — the site has none on purpose (no stock, no AI images). If you have one or two
     real photos of a gathering or a campus that you have permission to use, send them and Zack
     will place them.
-12. **Cru and Trellis logos** — the partners section uses their names as text links. If either
+17. **Cru and Trellis logos** — the partners section uses their names as text links. If either
     partner wants their logo shown, send the files.
-13. **A domain** — the site can live at a vercel.app address or at a domain you own. Once it is
+18. **A domain** — the site can live at a vercel.app address or at a domain you own. Once it is
     settled, Zack updates the site URL in the share tags so links preview correctly.
 
 ## Deliberately left out
 - Events, gathering dates, and locations. They go stale and nobody is on hand to update the
   site regularly. People who email Ainsley get the current details from her.
 - A signup or application form. Email is the form.
+- Analytics. If you want a sense of whether the page works, keep a tally of emails that arrive
+  with the campus, organization, and plan filled in. The two buttons use different subject
+  lines ("Joining the OC Campus Collective" and "Launch grant for a new campus") so they are
+  easy to tell apart.
