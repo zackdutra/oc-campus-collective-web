@@ -15,7 +15,7 @@ text editor and push; Vercel redeploys from GitHub.
 
 ## Editing rules
 - Nothing on the page is time-bound on purpose. Do not add events, dates, or "upcoming" anything.
-- Applying for anything means emailing Ainsley. Keep it that way; there is no form to maintain.
+- Applying for anything means emailing the Collective (Ainsley's address, worded as "us"). Keep it that way; there is no form to maintain.
 - Colors and type come from the flyer. See `DESIGN.md` before changing them.
 
 ## Preview locally

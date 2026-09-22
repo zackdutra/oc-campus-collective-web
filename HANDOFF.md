@@ -8,7 +8,7 @@ page could be finished. Each item says where it lives so it can be changed quick
 2. **Approved uses of funds**: the six bullets in the grant section.
 3. **Partner commitments**: the four bullets under "What we ask of partners".
 4. **Contact emails**: ainsley.whitecar@cru.org and ian@wearetrellis.com (hero buttons, grant
-   section, and "Run by Cru and Trellis"). Every button on the site emails Ainsley.
+   section, and "Run by Cru and Trellis"). Every button on the site says "Email us" and goes to Ainsley's address.
 
 ## Placeholders Zack wrote, please correct or approve
 5. **Ian's last name and title** — the site currently says just "Ian, Trellis".
@@ -22,7 +22,7 @@ page could be finished. Each item says where it lives so it can be changed quick
 9. **The four "What you get" descriptions** — one line each under Relationships, Information,
    Opportunities, Resources and tools. The headings are from the flyer; the descriptions are
    Zack's. Rewrite in your own words if they miss the mark.
-10. **How to apply** — the site says: email Ainsley with the campus, the organization, and what
+10. **How to apply** — the site says: email us with the campus, your organization, and what
     you are planning. Confirm that is all you need, or tell Zack what else to ask for.
 
 ## Optional additions
