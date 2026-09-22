@@ -10,6 +10,8 @@
 - Names and titles filled in: Ian Stevenson, Executive Director, Trellis; Ainsley Whitecar,
   Strategic Church Partnerships, Cru. Grant aside trimmed to one paragraph, the button, and
   the plain address; the qualifier now opens the paragraph.
+- `HANDOFF.md` trimmed: flyer content is treated as correct, and names and titles are settled,
+  so only Zack's own wording, the partner quote, and optional extras remain.
 - First build: one-page static site from the flyer and logo. Sections: hero, what we believe,
   what we ask of partners, launch grant, what you get, run by Cru and Trellis, footer.
 - Design plan in `DESIGN.md`; handoff list for Ainsley in `HANDOFF.md`.
