@@ -102,8 +102,8 @@ h3 {
 .sunrise {
   display: block;
   width: 100%;
-  height: clamp(120px, 18vw, 260px);
-  margin-top: -20px;
+  height: auto;
+  margin-top: -6%;
 }
 
 .button {
@@ -251,6 +251,7 @@ h3 {
     grid-template-columns: minmax(0, 1fr);
   }
   .actions { margin-bottom: 28px; }
+  .sunrise { width: 200%; margin-left: -100%; margin-top: 0; }
   .row { gap: 20px; }
   .uses { columns: 1; }
   .brand img { width: 160px; }

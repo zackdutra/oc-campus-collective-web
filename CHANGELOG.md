@@ -8,3 +8,7 @@
 - Full sun in the hero instead of a clipped one; matches the logo.
 - Share tags: Open Graph, Twitter card, canonical, theme color, apple touch icon, and a
   1200x630 `assets/og.png`. Site URL in the tags is a placeholder until the domain is set.
+- Hero sun redrawn to match the logo: half sun clipped along the swoosh, six tapered rays at
+  the logo's angles, blue swoosh ending at the sun. SVG now scales by aspect ratio so no
+  width crops it (the previous version lost its rays on wide monitors).
+- `tools/gen_sun.py` generates the sun SVG; `tools/og-template.html` is the share-image source.
